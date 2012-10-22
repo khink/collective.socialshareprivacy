@@ -1,0 +1,5 @@
+- Hilko Holweg, co-author of `socialshareprivacy`
+- Sebastian Hilbig, co-author of `socialshareprivacy`
+- Nicolas Heiringhoff, co-author of `socialshareprivacy`
+- Jürgen Schmidt, co-author of `socialshareprivacy`
+- Kees Hink, Plone add-on
